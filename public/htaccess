@@ -1,0 +1,68 @@
+# ─────────────────────────────────────────────────────────────
+# .htaccess untuk SPA (Vite + React) di Apache / Hostinger
+# Taruh file ini di DALAM folder hasil build (dist/) sebelum upload,
+# atau upload langsung ke root subdomain via File Manager, sejajar
+# dengan index.html hasil build.
+# ─────────────────────────────────────────────────────────────
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Kalau request adalah file atau folder yang BENAR-BENAR ada
+  # (misalnya /assets/index-abc123.js, /favicon.svg, /data/*.xlsx),
+  # biarkan Apache menyajikannya langsung seperti biasa.
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  # Kalau bukan file/folder fisik (misalnya /dashboard, /login,
+  # atau redirect callback dari MSAL seperti /?state=xxxx&code=yyyy),
+  # arahkan SEMUA ke index.html. React Router / App.tsx yang akan
+  # menangani routing-nya di sisi client.
+  RewriteRule ^ index.html [L]
+</IfModule>
+
+# ─────────────────────────────────────────────────────────────
+# Mencegah Apache mengembalikan halaman 404 default untuk
+# route yang tidak match file fisik — sudah ditangani RewriteRule
+# di atas, tapi baris ini sebagai pengaman tambahan.
+# ─────────────────────────────────────────────────────────────
+ErrorDocument 404 /index.html
+
+# ─────────────────────────────────────────────────────────────
+# Kompresi GZIP — bikin transfer JS/CSS/HTML lebih kecil & cepat
+# ─────────────────────────────────────────────────────────────
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/javascript
+  AddOutputFilterByType DEFLATE application/javascript application/json
+  AddOutputFilterByType DEFLATE image/svg+xml
+</IfModule>
+
+# ─────────────────────────────────────────────────────────────
+# Caching — file hasil build Vite (di folder assets/) sudah punya
+# hash unik di nama filenya (misal index-abc123.js), jadi aman
+# di-cache lama. index.html sendiri JANGAN di-cache lama, supaya
+# user selalu dapat versi terbaru setelah kamu re-deploy.
+# ─────────────────────────────────────────────────────────────
+<IfModule mod_expires.c>
+  ExpiresActive On
+
+  ExpiresByType text/html "access plus 0 seconds"
+
+  ExpiresByType application/javascript "access plus 1 year"
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType font/woff2 "access plus 1 year"
+
+  # File data Excel kamu (data/*.xlsx) — cache lebih singkat karena
+  # isinya bisa kamu update sewaktu-waktu tanpa re-deploy semuanya.
+  ExpiresByType application/vnd.openxmlformats-officedocument.spreadsheetml.sheet "access plus 1 hour"
+</IfModule>
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.html$">
+    Header set Cache-Control "no-cache, no-store, must-revalidate"
+  </FilesMatch>
+</IfModule>

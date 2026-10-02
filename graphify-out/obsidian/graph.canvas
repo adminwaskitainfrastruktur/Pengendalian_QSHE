@@ -1,0 +1,5067 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Komponen UI Bersama",
+      "x": 0,
+      "y": 0,
+      "width": 1980,
+      "height": 920,
+      "color": "1"
+    },
+    {
+      "id": "n_src_types_allproyekrow",
+      "type": "file",
+      "file": "AllProyekRow.md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_animatednumber_animatednumber",
+      "type": "file",
+      "file": "AnimatedNumber().md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_animatednumber",
+      "type": "file",
+      "file": "AnimatedNumber.tsx.md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_animatednumber_animatednumberprops",
+      "type": "file",
+      "file": "AnimatedNumberProps.md",
+      "x": 620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_annualfinancialpoint",
+      "type": "file",
+      "file": "AnnualFinancialPoint.md",
+      "x": 820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_commercialperformance_bdsortkey",
+      "type": "file",
+      "file": "BdSortKey.md",
+      "x": 1020,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_commercialperformance_commercialperformance",
+      "type": "file",
+      "file": "CommercialPerformance().md",
+      "x": 1220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_commercialperformance",
+      "type": "file",
+      "file": "CommercialPerformance.tsx.md",
+      "x": 1420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_constants_default_filters",
+      "type": "file",
+      "file": "DEFAULT_FILTERS.md",
+      "x": 1620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_filterbar_filterbar",
+      "type": "file",
+      "file": "FilterBar().md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_filterbar",
+      "type": "file",
+      "file": "FilterBar.tsx.md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_filterbar_filterbarprops",
+      "type": "file",
+      "file": "FilterBarProps.md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_filters",
+      "type": "file",
+      "file": "Filters.md",
+      "x": 620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_qshepanel_gauge",
+      "type": "file",
+      "file": "Gauge().md",
+      "x": 820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_filterbar_hidden_segments",
+      "type": "file",
+      "file": "HIDDEN_SEGMENTS.md",
+      "x": 1020,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_historibulanan",
+      "type": "file",
+      "file": "HistoriBulanan.md",
+      "x": 1220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_kumulatiffinancials",
+      "type": "file",
+      "file": "KumulatifFinancials.md",
+      "x": 1420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_constants_month_labels",
+      "type": "file",
+      "file": "MONTH_LABELS.md",
+      "x": 1620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_mappanel_mapctrl",
+      "type": "file",
+      "file": "MapCtrl().md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_overviewview_mappanel",
+      "type": "file",
+      "file": "MapPanel.md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_mappanel_mappanel",
+      "type": "file",
+      "file": "MapPanel().md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_mappanel",
+      "type": "file",
+      "file": "MapPanel.tsx.md",
+      "x": 620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_masterview_masterview",
+      "type": "file",
+      "file": "MasterView().md",
+      "x": 820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_masterview",
+      "type": "file",
+      "file": "MasterView.tsx.md",
+      "x": 1020,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_mappanel_metric",
+      "type": "file",
+      "file": "Metric.md",
+      "x": 1220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_overviewview_nkbterpilih",
+      "type": "file",
+      "file": "NkbTerpilih.md",
+      "x": 1420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_operationalperformance_operationalperformance",
+      "type": "file",
+      "file": "OperationalPerformance().md",
+      "x": 1620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_operationalperformance",
+      "type": "file",
+      "file": "OperationalPerformance.tsx.md",
+      "x": 20,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_overviewview_overviewview",
+      "type": "file",
+      "file": "OverviewView().md",
+      "x": 220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_overviewview",
+      "type": "file",
+      "file": "OverviewView.tsx.md",
+      "x": 420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_constants_pie_colors",
+      "type": "file",
+      "file": "PIE_COLORS.md",
+      "x": 620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_constants_province_geo",
+      "type": "file",
+      "file": "PROVINCE_GEO.md",
+      "x": 820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_auth_particlesbg",
+      "type": "file",
+      "file": "ParticlesBg().md",
+      "x": 1020,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_portfolioanalytics_portfolioanalytics",
+      "type": "file",
+      "file": "PortfolioAnalytics().md",
+      "x": 1220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_portfolioanalytics",
+      "type": "file",
+      "file": "PortfolioAnalytics.tsx.md",
+      "x": 1420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_projectperformancematrix_projectperformancematrix",
+      "type": "file",
+      "file": "ProjectPerformanceMatrix().md",
+      "x": 1620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_projectperformancematrix",
+      "type": "file",
+      "file": "ProjectPerformanceMatrix.tsx.md",
+      "x": 20,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_commercialperformance_props",
+      "type": "file",
+      "file": "Props_2.md",
+      "x": 220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_mappanel_props",
+      "type": "file",
+      "file": "Props_5.md",
+      "x": 420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_masterview_props",
+      "type": "file",
+      "file": "Props_6.md",
+      "x": 620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_operationalperformance_props",
+      "type": "file",
+      "file": "Props_7.md",
+      "x": 820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_overviewview_props",
+      "type": "file",
+      "file": "Props_8.md",
+      "x": 1020,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_portfolioanalytics_props",
+      "type": "file",
+      "file": "Props_11.md",
+      "x": 1220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_projectperformancematrix_props",
+      "type": "file",
+      "file": "Props_12.md",
+      "x": 1420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_qshepanel_props",
+      "type": "file",
+      "file": "Props_15.md",
+      "x": 1620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_mappanel_provagg",
+      "type": "file",
+      "file": "ProvAgg.md",
+      "x": 20,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_qshepanel_qshepanel",
+      "type": "file",
+      "file": "QshePanel().md",
+      "x": 220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_qshepanel",
+      "type": "file",
+      "file": "QshePanel.tsx.md",
+      "x": 420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_operationalperformance_rank_tabs",
+      "type": "file",
+      "file": "RANK_TABS.md",
+      "x": 620,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_operationalperformance_ranktab",
+      "type": "file",
+      "file": "RankTab.md",
+      "x": 820,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_commercialperformance_segments",
+      "type": "file",
+      "file": "SEGMENTS.md",
+      "x": 1020,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_mappanel_status_options",
+      "type": "file",
+      "file": "STATUS_OPTIONS.md",
+      "x": 1220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_filterbar_singleselect",
+      "type": "file",
+      "file": "SingleSelect().md",
+      "x": 1420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_filterbar_singleselectprops",
+      "type": "file",
+      "file": "SingleSelectProps.md",
+      "x": 1620,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_masterview_sortcol",
+      "type": "file",
+      "file": "SortCol.md",
+      "x": 20,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_sortdir",
+      "type": "file",
+      "file": "SortDir_1.md",
+      "x": 220,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_sortkey",
+      "type": "file",
+      "file": "SortKey_1.md",
+      "x": 420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_overviewview_sparkline",
+      "type": "file",
+      "file": "Sparkline().md",
+      "x": 620,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_constants_theme",
+      "type": "file",
+      "file": "Theme.md",
+      "x": 820,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_projectperformanceview_tooltipprops",
+      "type": "file",
+      "file": "TooltipProps.md",
+      "x": 1020,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_view",
+      "type": "file",
+      "file": "View.md",
+      "x": 1220,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_mappanel_bkpucolor",
+      "type": "file",
+      "file": "bkPuColor().md",
+      "x": 1420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_constants",
+      "type": "file",
+      "file": "constants.ts.md",
+      "x": 1620,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_utils_ffull",
+      "type": "file",
+      "file": "fFull().md",
+      "x": 20,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_utils_fnum",
+      "type": "file",
+      "file": "fNum().md",
+      "x": 220,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_utils_fshort",
+      "type": "file",
+      "file": "fShort().md",
+      "x": 420,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_overviewview_fmtpct",
+      "type": "file",
+      "file": "fmtPct().md",
+      "x": 620,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_overviewview_fmtscore",
+      "type": "file",
+      "file": "fmtScore().md",
+      "x": 820,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_react",
+      "type": "file",
+      "file": "react.md",
+      "x": 1020,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_react",
+      "type": "file",
+      "file": "react_1.md",
+      "x": 1220,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_qshepanel_scorecolordefault",
+      "type": "file",
+      "file": "scoreColorDefault().md",
+      "x": 1420,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types",
+      "type": "file",
+      "file": "types.ts.md",
+      "x": 1620,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "Pembuat Paparan PPT",
+      "x": 2060,
+      "y": 0,
+      "width": 1980,
+      "height": 920,
+      "color": "2"
+    },
+    {
+      "id": "n_src_components_views_paparansections_area",
+      "type": "file",
+      "file": "Area.md",
+      "x": 2080,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_barismatrix",
+      "type": "file",
+      "file": "BarisMatrix.md",
+      "x": 2280,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_barisproyek",
+      "type": "file",
+      "file": "BarisProyek.md",
+      "x": 2480,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_ctx",
+      "type": "file",
+      "file": "Ctx.md",
+      "x": 2680,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparanview_editorprops",
+      "type": "file",
+      "file": "EditorProps.md",
+      "x": 2880,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_grup",
+      "type": "file",
+      "file": "GRUP.md",
+      "x": 3080,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_kpi_items",
+      "type": "file",
+      "file": "KPI_ITEMS.md",
+      "x": 3280,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_kumulatif",
+      "type": "file",
+      "file": "Kumulatif.md",
+      "x": 3480,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_nkbtrendpoint",
+      "type": "file",
+      "file": "NkbTrendPoint.md",
+      "x": 3680,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparancapture_paparancapture",
+      "type": "file",
+      "file": "PaparanCapture().md",
+      "x": 2080,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparancapture",
+      "type": "file",
+      "file": "PaparanCapture.tsx.md",
+      "x": 2280,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_paparanfilter",
+      "type": "file",
+      "file": "PaparanFilter.md",
+      "x": 2480,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparanview_paparanview",
+      "type": "file",
+      "file": "PaparanView().md",
+      "x": 2680,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparanview",
+      "type": "file",
+      "file": "PaparanView.tsx.md",
+      "x": 2880,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparanview_previewsection",
+      "type": "file",
+      "file": "PreviewSection().md",
+      "x": 3080,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparancapture_props",
+      "type": "file",
+      "file": "Props_9.md",
+      "x": 3280,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparanview_props",
+      "type": "file",
+      "file": "Props_10.md",
+      "x": 3480,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_qshe_items",
+      "type": "file",
+      "file": "QSHE_ITEMS.md",
+      "x": 3680,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_sections",
+      "type": "file",
+      "file": "SECTIONS.md",
+      "x": 2080,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_section_map",
+      "type": "file",
+      "file": "SECTION_MAP.md",
+      "x": 2280,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparancapture_section_potret",
+      "type": "file",
+      "file": "SECTION_POTRET.md",
+      "x": 2480,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_seg_qshe_only",
+      "type": "file",
+      "file": "SEG_QSHE_ONLY_1.md",
+      "x": 2680,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparanview_sectioncfg",
+      "type": "file",
+      "file": "SectionCfg.md",
+      "x": 2880,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_sectiondef",
+      "type": "file",
+      "file": "SectionDef.md",
+      "x": 3080,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_sectionkey",
+      "type": "file",
+      "file": "SectionKey.md",
+      "x": 3280,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_sectionopt",
+      "type": "file",
+      "file": "SectionOpt.md",
+      "x": 3480,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparanview_slidecfg",
+      "type": "file",
+      "file": "SlideCfg.md",
+      "x": 3680,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparanview_slideeditor",
+      "type": "file",
+      "file": "SlideEditor().md",
+      "x": 2080,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparanview_slidepreview",
+      "type": "file",
+      "file": "SlidePreview().md",
+      "x": 2280,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparanview_tataletak",
+      "type": "file",
+      "file": "TataLetak.md",
+      "x": 2480,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_unitqshe",
+      "type": "file",
+      "file": "UnitQshe.md",
+      "x": 2680,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_yoydatapoint",
+      "type": "file",
+      "file": "YoyDataPoint.md",
+      "x": 2880,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_axismuat",
+      "type": "file",
+      "file": "axisMuat().md",
+      "x": 3080,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_axisopts",
+      "type": "file",
+      "file": "axisOpts.md",
+      "x": 3280,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_bagiarea",
+      "type": "file",
+      "file": "bagiArea().md",
+      "x": 3480,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_barismuat",
+      "type": "file",
+      "file": "barisMuat().md",
+      "x": 3680,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_fpct",
+      "type": "file",
+      "file": "fPct()_1.md",
+      "x": 2080,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_hitunganalitik",
+      "type": "file",
+      "file": "hitungAnalitik().md",
+      "x": 2280,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_hitungkumulatif",
+      "type": "file",
+      "file": "hitungKumulatif().md",
+      "x": 2480,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_hitungmatrix",
+      "type": "file",
+      "file": "hitungMatrix().md",
+      "x": 2680,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_hitungnkb",
+      "type": "file",
+      "file": "hitungNkb().md",
+      "x": 2880,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_hitungprovinsi",
+      "type": "file",
+      "file": "hitungProvinsi().md",
+      "x": 3080,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_hitungqshetren",
+      "type": "file",
+      "file": "hitungQsheTren().md",
+      "x": 3280,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_hitungqsheunit",
+      "type": "file",
+      "file": "hitungQsheUnit().md",
+      "x": 3480,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_hitungtren",
+      "type": "file",
+      "file": "hitungTren().md",
+      "x": 3680,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_hitungyoy",
+      "type": "file",
+      "file": "hitungYoy().md",
+      "x": 2080,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_hitungyoybulanan",
+      "type": "file",
+      "file": "hitungYoyBulanan().md",
+      "x": 2280,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparanview_idbaru",
+      "type": "file",
+      "file": "idBaru().md",
+      "x": 2480,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparancapture_idpotret",
+      "type": "file",
+      "file": "idPotret().md",
+      "x": 2680,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_isi",
+      "type": "file",
+      "file": "isi().md",
+      "x": 2880,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_judulsection",
+      "type": "file",
+      "file": "judulSection().md",
+      "x": 3080,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_labelangka",
+      "type": "file",
+      "file": "labelAngka().md",
+      "x": 3280,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_panelevaluasi",
+      "type": "file",
+      "file": "panelEvaluasi().md",
+      "x": 3480,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata",
+      "type": "file",
+      "file": "paparanData.ts.md",
+      "x": 3680,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections",
+      "type": "file",
+      "file": "paparanSections.ts.md",
+      "x": 2080,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_pctof",
+      "type": "file",
+      "file": "pctOf().md",
+      "x": 2280,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_periksaruang",
+      "type": "file",
+      "file": "periksaRuang().md",
+      "x": 2480,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_saringbaris",
+      "type": "file",
+      "file": "saringBaris().md",
+      "x": 2680,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparanview_sec",
+      "type": "file",
+      "file": "sec().md",
+      "x": 2880,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparanview_susunanawal",
+      "type": "file",
+      "file": "susunanAwal().md",
+      "x": 3080,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_tabelmuat",
+      "type": "file",
+      "file": "tabelMuat().md",
+      "x": 3280,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_td",
+      "type": "file",
+      "file": "td().md",
+      "x": 3480,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_th",
+      "type": "file",
+      "file": "th().md",
+      "x": 3680,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparandata_totalperproyek",
+      "type": "file",
+      "file": "totalPerProyek().md",
+      "x": 2080,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_paparansections_warnacapai",
+      "type": "file",
+      "file": "warnaCapai().md",
+      "x": 2280,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "Perkakas Lint & Build",
+      "x": 4120,
+      "y": 0,
+      "width": 1540,
+      "height": 820,
+      "color": "3"
+    },
+    {
+      "id": "n_babel_core",
+      "type": "file",
+      "file": "@babelcore_1.md",
+      "x": 4140,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_babel_core",
+      "type": "file",
+      "file": "@babelcore.md",
+      "x": 4340,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_eslint_js",
+      "type": "file",
+      "file": "@eslintjs_1.md",
+      "x": 4540,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_eslint_js",
+      "type": "file",
+      "file": "@eslintjs.md",
+      "x": 4740,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_rolldown_plugin_babel",
+      "type": "file",
+      "file": "@rolldownplugin-babel.md",
+      "x": 4940,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_rolldown_plugin_babel",
+      "type": "file",
+      "file": "@rolldownplugin-babel_1.md",
+      "x": 5140,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_types_babel_core",
+      "type": "file",
+      "file": "@typesbabel__core.md",
+      "x": 5340,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_babel_core",
+      "type": "file",
+      "file": "@typesbabel__core_1.md",
+      "x": 4140,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_types_leaflet",
+      "type": "file",
+      "file": "@typesleaflet.md",
+      "x": 4340,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_leaflet",
+      "type": "file",
+      "file": "@typesleaflet_1.md",
+      "x": 4540,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_types_node",
+      "type": "file",
+      "file": "@typesnode.md",
+      "x": 4740,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_node",
+      "type": "file",
+      "file": "@typesnode_1.md",
+      "x": 4940,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_types_papaparse",
+      "type": "file",
+      "file": "@typespapaparse.md",
+      "x": 5140,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_papaparse",
+      "type": "file",
+      "file": "@typespapaparse_1.md",
+      "x": 5340,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_types_react",
+      "type": "file",
+      "file": "@typesreact.md",
+      "x": 4140,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_react",
+      "type": "file",
+      "file": "@typesreact_1.md",
+      "x": 4340,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_types_react_dom",
+      "type": "file",
+      "file": "@typesreact-dom.md",
+      "x": 4540,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_types_react_dom",
+      "type": "file",
+      "file": "@typesreact-dom_1.md",
+      "x": 4740,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_vitejs_plugin_react",
+      "type": "file",
+      "file": "@vitejsplugin-react.md",
+      "x": 4940,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vitejs_plugin_react",
+      "type": "file",
+      "file": "@vitejsplugin-react_1.md",
+      "x": 5140,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_babel_plugin_react_compiler",
+      "type": "file",
+      "file": "babel-plugin-react-compiler_1.md",
+      "x": 5340,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_babel_plugin_react_compiler",
+      "type": "file",
+      "file": "babel-plugin-react-compiler.md",
+      "x": 4140,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_scripts_build",
+      "type": "file",
+      "file": "build.md",
+      "x": 4340,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_scripts_dev",
+      "type": "file",
+      "file": "dev.md",
+      "x": 4540,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies",
+      "type": "file",
+      "file": "devDependencies.md",
+      "x": 4740,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_eslint",
+      "type": "file",
+      "file": "eslint_1.md",
+      "x": 4940,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_eslint",
+      "type": "file",
+      "file": "eslint.md",
+      "x": 5140,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_eslint_plugin_react_hooks",
+      "type": "file",
+      "file": "eslint-plugin-react-hooks_1.md",
+      "x": 5340,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_eslint_plugin_react_hooks",
+      "type": "file",
+      "file": "eslint-plugin-react-hooks.md",
+      "x": 4140,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_eslint_plugin_react_refresh",
+      "type": "file",
+      "file": "eslint-plugin-react-refresh_1.md",
+      "x": 4340,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_eslint_plugin_react_refresh",
+      "type": "file",
+      "file": "eslint-plugin-react-refresh.md",
+      "x": 4540,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_globals",
+      "type": "file",
+      "file": "globals_1.md",
+      "x": 4740,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_globals",
+      "type": "file",
+      "file": "globals.md",
+      "x": 4940,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_scripts_lint",
+      "type": "file",
+      "file": "lint.md",
+      "x": 5140,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_name",
+      "type": "file",
+      "file": "name.md",
+      "x": 5340,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package",
+      "type": "file",
+      "file": "package.json.md",
+      "x": 4140,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_scripts_preview",
+      "type": "file",
+      "file": "preview.md",
+      "x": 4340,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_private",
+      "type": "file",
+      "file": "private.md",
+      "x": 4540,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_scripts",
+      "type": "file",
+      "file": "scripts.md",
+      "x": 4740,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_type",
+      "type": "file",
+      "file": "type.md",
+      "x": 4940,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_typescript",
+      "type": "file",
+      "file": "typescript.md",
+      "x": 5140,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_typescript",
+      "type": "file",
+      "file": "typescript_1.md",
+      "x": 5340,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_typescript_eslint",
+      "type": "file",
+      "file": "typescript-eslint.md",
+      "x": 4140,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_typescript_eslint",
+      "type": "file",
+      "file": "typescript-eslint_1.md",
+      "x": 4340,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_version",
+      "type": "file",
+      "file": "version.md",
+      "x": 4540,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_devdependencies_vite",
+      "type": "file",
+      "file": "vite.md",
+      "x": 4740,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vite",
+      "type": "file",
+      "file": "vite_1.md",
+      "x": 4940,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "Shell Aplikasi & Auth",
+      "x": 5740,
+      "y": 0,
+      "width": 1540,
+      "height": 720,
+      "color": "4"
+    },
+    {
+      "id": "n_src_app_app",
+      "type": "file",
+      "file": "App().md",
+      "x": 5760,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_app",
+      "type": "file",
+      "file": "App.tsx.md",
+      "x": 5960,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_auth",
+      "type": "file",
+      "file": "Auth.tsx.md",
+      "x": 6160,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_auth_authgate",
+      "type": "file",
+      "file": "AuthGate().md",
+      "x": 6360,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_auth_authgateprops",
+      "type": "file",
+      "file": "AuthGateProps.md",
+      "x": 6560,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_usesharepointfile_cachemeta",
+      "type": "file",
+      "file": "CacheMeta.md",
+      "x": 6760,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_globalcss_globalcss",
+      "type": "file",
+      "file": "GlobalCSS().md",
+      "x": 6960,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_globalcss",
+      "type": "file",
+      "file": "GlobalCSS.tsx.md",
+      "x": 5760,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_auth_loginpage",
+      "type": "file",
+      "file": "LoginPage().md",
+      "x": 5960,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_auth_loginpageprops",
+      "type": "file",
+      "file": "LoginPageProps.md",
+      "x": 6160,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_overlayphase",
+      "type": "file",
+      "file": "OverlayPhase.md",
+      "x": 6360,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_app_pagetransitionoverlay",
+      "type": "file",
+      "file": "PageTransitionOverlay().md",
+      "x": 6560,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_app_pagetransitionoverlayprops",
+      "type": "file",
+      "file": "PageTransitionOverlayProps.md",
+      "x": 6760,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_globalcss_props",
+      "type": "file",
+      "file": "Props_1.md",
+      "x": 6960,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_usesharepointfile_resolvedids",
+      "type": "file",
+      "file": "ResolvedIds.md",
+      "x": 5760,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_usesharepointfile_sharepointfileresult",
+      "type": "file",
+      "file": "SharePointFileResult.md",
+      "x": 5960,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_auth_themekey",
+      "type": "file",
+      "file": "ThemeKey.md",
+      "x": 6160,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_auth_themetoggle",
+      "type": "file",
+      "file": "ThemeToggle().md",
+      "x": 6360,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_usesharepointfile_arraybuffertobase64",
+      "type": "file",
+      "file": "arrayBufferToBase64().md",
+      "x": 6560,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_usesharepointfile_base64toarraybuffer",
+      "type": "file",
+      "file": "base64ToArrayBuffer().md",
+      "x": 6760,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_usesharepointfile_getcachemeta",
+      "type": "file",
+      "file": "getCacheMeta().md",
+      "x": 6960,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_usesharepointfile_getcachedbuffer",
+      "type": "file",
+      "file": "getCachedBuffer().md",
+      "x": 5760,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_usesharepointfile_getresolvedidsfromstorage",
+      "type": "file",
+      "file": "getResolvedIdsFromStorage().md",
+      "x": 5960,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_auth_graphconfig",
+      "type": "file",
+      "file": "graphConfig.md",
+      "x": 6160,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_auth_graphfilesrequest",
+      "type": "file",
+      "file": "graphFilesRequest.md",
+      "x": 6360,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_hooks",
+      "type": "file",
+      "file": "hooks.ts.md",
+      "x": 6560,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_main_init",
+      "type": "file",
+      "file": "init().md",
+      "x": 6760,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_auth_loginrequest",
+      "type": "file",
+      "file": "loginRequest.md",
+      "x": 6960,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_main",
+      "type": "file",
+      "file": "main.tsx.md",
+      "x": 5760,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_auth_msalconfig",
+      "type": "file",
+      "file": "msalConfig.md",
+      "x": 5960,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_auth_msalinstance",
+      "type": "file",
+      "file": "msalInstance.md",
+      "x": 6160,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_react_dom",
+      "type": "file",
+      "file": "react-dom.md",
+      "x": 6360,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_react_dom",
+      "type": "file",
+      "file": "react-dom_1.md",
+      "x": 6560,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_usesharepointfile_savecachemeta",
+      "type": "file",
+      "file": "saveCacheMeta().md",
+      "x": 6760,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_usesharepointfile_savecachedbuffer",
+      "type": "file",
+      "file": "saveCachedBuffer().md",
+      "x": 6960,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_usesharepointfile_saveresolvedidstostorage",
+      "type": "file",
+      "file": "saveResolvedIdsToStorage().md",
+      "x": 5760,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_auth_themes",
+      "type": "file",
+      "file": "themes.md",
+      "x": 5960,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_hooks_usecountup",
+      "type": "file",
+      "file": "useCountUp().md",
+      "x": 6160,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_hooks_usepagetransition",
+      "type": "file",
+      "file": "usePageTransition().md",
+      "x": 6360,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_usesharepointfile_usesharepointfile",
+      "type": "file",
+      "file": "useSharePointFile().md",
+      "x": 6560,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_usesharepointfile",
+      "type": "file",
+      "file": "useSharePointFile.ts.md",
+      "x": 6760,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "View Dashboard & Matriks",
+      "x": 7360,
+      "y": 0,
+      "width": 1540,
+      "height": 720,
+      "color": "5"
+    },
+    {
+      "id": "n_src_components_views_ppidata_barisppi",
+      "type": "file",
+      "file": "BarisPpi.md",
+      "x": 7380,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_dashboardoverview_dashboardoverview",
+      "type": "file",
+      "file": "DashboardOverview().md",
+      "x": 7580,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_dashboardoverview",
+      "type": "file",
+      "file": "DashboardOverview.tsx.md",
+      "x": 7780,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_detailmatrixview_detailmatrixview",
+      "type": "file",
+      "file": "DetailMatrixView().md",
+      "x": 7980,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_detailmatrixview",
+      "type": "file",
+      "file": "DetailMatrixView.tsx.md",
+      "x": 8180,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_ppidata_indikator",
+      "type": "file",
+      "file": "Indikator.md",
+      "x": 8380,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_ppidata_kuadran_info",
+      "type": "file",
+      "file": "KUADRAN_INFO.md",
+      "x": 8580,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_projectppidetail_kartuskor",
+      "type": "file",
+      "file": "KartuSkor().md",
+      "x": 7380,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_ppidata_kuadran",
+      "type": "file",
+      "file": "Kuadran.md",
+      "x": 7580,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_detailmatrixview_matrixrow",
+      "type": "file",
+      "file": "MatrixRow.md",
+      "x": 7780,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_monthlytrend",
+      "type": "file",
+      "file": "MonthlyTrend.md",
+      "x": 7980,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_projectperformanceview_projectperformanceview",
+      "type": "file",
+      "file": "ProjectPerformanceView().md",
+      "x": 8180,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_projectperformanceview",
+      "type": "file",
+      "file": "ProjectPerformanceView.tsx.md",
+      "x": 8380,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_projectppidetail_projectppidetail",
+      "type": "file",
+      "file": "ProjectPpiDetail().md",
+      "x": 8580,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_projectppidetail",
+      "type": "file",
+      "file": "ProjectPpiDetail.tsx.md",
+      "x": 7380,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_dashboardoverview_props",
+      "type": "file",
+      "file": "Props_3.md",
+      "x": 7580,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_detailmatrixview_props",
+      "type": "file",
+      "file": "Props_4.md",
+      "x": 7780,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_projectperformanceview_props",
+      "type": "file",
+      "file": "Props_13.md",
+      "x": 7980,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_projectppidetail_props",
+      "type": "file",
+      "file": "Props_14.md",
+      "x": 8180,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_detailmatrixview_seg_non_finansial",
+      "type": "file",
+      "file": "SEG_NON_FINANSIAL.md",
+      "x": 8380,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_ppidata_seg_non_proyek",
+      "type": "file",
+      "file": "SEG_NON_PROYEK.md",
+      "x": 8580,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_detailmatrixview_sortdir",
+      "type": "file",
+      "file": "SortDir.md",
+      "x": 7380,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_detailmatrixview_sortkey",
+      "type": "file",
+      "file": "SortKey.md",
+      "x": 7580,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_projectperformanceview_titikppi",
+      "type": "file",
+      "file": "TitikPpi.md",
+      "x": 7780,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_projectperformanceview_tooltiptitik",
+      "type": "file",
+      "file": "TooltipTitik().md",
+      "x": 7980,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_unifiedprojectdata",
+      "type": "file",
+      "file": "UnifiedProjectData.md",
+      "x": 8180,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_detailmatrixview_fpct",
+      "type": "file",
+      "file": "fPct().md",
+      "x": 8380,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_dashboardoverview_formatshortrupiah",
+      "type": "file",
+      "file": "formatShortRupiah().md",
+      "x": 8580,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_detailmatrixview_hitungbaris",
+      "type": "file",
+      "file": "hitungBaris().md",
+      "x": 7380,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_ppidata_hitungoutput",
+      "type": "file",
+      "file": "hitungOutput().md",
+      "x": 7580,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_ppidata_hitungppi",
+      "type": "file",
+      "file": "hitungPpi().md",
+      "x": 7780,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_ppidata_hitungproses",
+      "type": "file",
+      "file": "hitungProses().md",
+      "x": 7980,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_detailmatrixview_nilaisort",
+      "type": "file",
+      "file": "nilaiSort().md",
+      "x": 8180,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_ppidata",
+      "type": "file",
+      "file": "ppiData.ts.md",
+      "x": 8380,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_ppidata_skordeviasi",
+      "type": "file",
+      "file": "skorDeviasi().md",
+      "x": 8580,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_ppidata_skorumur",
+      "type": "file",
+      "file": "skorUmur().md",
+      "x": 7380,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_ppidata_tentukankuadran",
+      "type": "file",
+      "file": "tentukanKuadran().md",
+      "x": 7580,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_views_ppidata_trenbulananppi",
+      "type": "file",
+      "file": "trenBulananPpi().md",
+      "x": 7780,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "Dependensi Pihak Ketiga",
+      "x": 0,
+      "y": 1000,
+      "width": 1540,
+      "height": 720,
+      "color": "6"
+    },
+    {
+      "id": "n_azure_msal_browser",
+      "type": "file",
+      "file": "@azuremsal-browser_1.md",
+      "x": 20,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_azure_msal_browser",
+      "type": "file",
+      "file": "@azuremsal-browser.md",
+      "x": 220,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_azure_msal_react",
+      "type": "file",
+      "file": "@azuremsal-react_1.md",
+      "x": 420,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_azure_msal_react",
+      "type": "file",
+      "file": "@azuremsal-react.md",
+      "x": 620,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_tailwindcss_vite",
+      "type": "file",
+      "file": "@tailwindcssvite.md",
+      "x": 820,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tailwindcss_vite",
+      "type": "file",
+      "file": "@tailwindcssvite_1.md",
+      "x": 1020,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_tanstack_react_query",
+      "type": "file",
+      "file": "@tanstackreact-query.md",
+      "x": 1220,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tanstack_react_query",
+      "type": "file",
+      "file": "@tanstackreact-query_1.md",
+      "x": 20,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_tanstack_react_table",
+      "type": "file",
+      "file": "@tanstackreact-table.md",
+      "x": 220,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tanstack_react_table",
+      "type": "file",
+      "file": "@tanstackreact-table_1.md",
+      "x": 420,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_axios",
+      "type": "file",
+      "file": "axios_1.md",
+      "x": 620,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_axios",
+      "type": "file",
+      "file": "axios.md",
+      "x": 820,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies",
+      "type": "file",
+      "file": "dependencies.md",
+      "x": 1020,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_framer_motion",
+      "type": "file",
+      "file": "framer-motion_1.md",
+      "x": 1220,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_framer_motion",
+      "type": "file",
+      "file": "framer-motion.md",
+      "x": 20,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_html2canvas",
+      "type": "file",
+      "file": "html2canvas_1.md",
+      "x": 220,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_html2canvas",
+      "type": "file",
+      "file": "html2canvas.md",
+      "x": 420,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_leaflet",
+      "type": "file",
+      "file": "leaflet_1.md",
+      "x": 620,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_leaflet",
+      "type": "file",
+      "file": "leaflet.md",
+      "x": 820,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lucide_react",
+      "type": "file",
+      "file": "lucide-react_1.md",
+      "x": 1020,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_lucide_react",
+      "type": "file",
+      "file": "lucide-react.md",
+      "x": 1220,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_papaparse",
+      "type": "file",
+      "file": "papaparse.md",
+      "x": 20,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_papaparse",
+      "type": "file",
+      "file": "papaparse_1.md",
+      "x": 220,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_pptxgenjs",
+      "type": "file",
+      "file": "pptxgenjs.md",
+      "x": 420,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_pptxgenjs",
+      "type": "file",
+      "file": "pptxgenjs_1.md",
+      "x": 620,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_react_leaflet",
+      "type": "file",
+      "file": "react-leaflet.md",
+      "x": 820,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_react_leaflet",
+      "type": "file",
+      "file": "react-leaflet_1.md",
+      "x": 1020,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_react_router_dom",
+      "type": "file",
+      "file": "react-router-dom.md",
+      "x": 1220,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_react_router_dom",
+      "type": "file",
+      "file": "react-router-dom_1.md",
+      "x": 20,
+      "y": 1400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_recharts",
+      "type": "file",
+      "file": "recharts.md",
+      "x": 220,
+      "y": 1400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_recharts",
+      "type": "file",
+      "file": "recharts_1.md",
+      "x": 420,
+      "y": 1400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_tailwindcss",
+      "type": "file",
+      "file": "tailwindcss.md",
+      "x": 620,
+      "y": 1400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tailwindcss",
+      "type": "file",
+      "file": "tailwindcss_1.md",
+      "x": 820,
+      "y": 1400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_xlsx",
+      "type": "file",
+      "file": "xlsx.md",
+      "x": 1020,
+      "y": 1400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_xlsx",
+      "type": "file",
+      "file": "xlsx_1.md",
+      "x": 1220,
+      "y": 1400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_package_dependencies_zustand",
+      "type": "file",
+      "file": "zustand.md",
+      "x": 20,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_zustand",
+      "type": "file",
+      "file": "zustand_1.md",
+      "x": 220,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g6",
+      "type": "group",
+      "label": "Parsing Excel & Orkestrasi",
+      "x": 2060,
+      "y": 1000,
+      "width": 1100,
+      "height": 620,
+      "color": "1"
+    },
+    {
+      "id": "n_src_components_dashboard",
+      "type": "file",
+      "file": "Dashboard.tsx.md",
+      "x": 2080,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_dashboard_dashboardapp",
+      "type": "file",
+      "file": "DashboardApp().md",
+      "x": 2280,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_dashboard_graphprofile",
+      "type": "file",
+      "file": "GraphProfile.md",
+      "x": 2480,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_dashboard_month_order",
+      "type": "file",
+      "file": "MONTH_ORDER.md",
+      "x": 2680,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_dashboard_masterview",
+      "type": "file",
+      "file": "MasterView.md",
+      "x": 2880,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_dashboard_nav_items",
+      "type": "file",
+      "file": "NAV_ITEMS.md",
+      "x": 2080,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_utils_pola_dikecualikan",
+      "type": "file",
+      "file": "POLA_DIKECUALIKAN.md",
+      "x": 2280,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_utils_province_aliases",
+      "type": "file",
+      "file": "PROVINCE_ALIASES.md",
+      "x": 2480,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_dashboard_paparanview",
+      "type": "file",
+      "file": "PaparanView.md",
+      "x": 2680,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_dashboard_props",
+      "type": "file",
+      "file": "Props.md",
+      "x": 2880,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_dashboard_seg_qshe_only",
+      "type": "file",
+      "file": "SEG_QSHE_ONLY.md",
+      "x": 2080,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_utils_extractprogressfromstatus",
+      "type": "file",
+      "file": "extractProgressFromStatus().md",
+      "x": 2280,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_utils_isdikecualikan",
+      "type": "file",
+      "file": "isDikecualikan().md",
+      "x": 2480,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_utils_isoverheadid",
+      "type": "file",
+      "file": "isOverheadId().md",
+      "x": 2680,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_utils_isvalidcitytext",
+      "type": "file",
+      "file": "isValidCityText().md",
+      "x": 2880,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_utils_isvalidclient",
+      "type": "file",
+      "file": "isValidClient().md",
+      "x": 2080,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_utils_isvalidsegment",
+      "type": "file",
+      "file": "isValidSegment().md",
+      "x": 2280,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_utils_normalizecitytext",
+      "type": "file",
+      "file": "normalizeCityText().md",
+      "x": 2480,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_utils_normalizeprovinsi",
+      "type": "file",
+      "file": "normalizeProvinsi().md",
+      "x": 2680,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_utils_normalizestatuslabel",
+      "type": "file",
+      "file": "normalizeStatusLabel().md",
+      "x": 2880,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_utils_parsecoordinate",
+      "type": "file",
+      "file": "parseCoordinate().md",
+      "x": 2080,
+      "y": 1400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_utils_parsemapppct",
+      "type": "file",
+      "file": "parseMappPct().md",
+      "x": 2280,
+      "y": 1400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_utils",
+      "type": "file",
+      "file": "utils.ts.md",
+      "x": 2480,
+      "y": 1400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_utils_validateandfixlatlng",
+      "type": "file",
+      "file": "validateAndFixLatLng().md",
+      "x": 2680,
+      "y": 1400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g7",
+      "type": "group",
+      "label": "Konfigurasi TS App",
+      "x": 4120,
+      "y": 1000,
+      "width": 1100,
+      "height": 620,
+      "color": "2"
+    },
+    {
+      "id": "n_ref_dom",
+      "type": "file",
+      "file": "DOM.md",
+      "x": 4140,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app_json_ref_es2023",
+      "type": "file",
+      "file": "ES2023.md",
+      "x": 4340,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app_compileroptions_allowimportingtsextensions",
+      "type": "file",
+      "file": "allowImportingTsExtensions.md",
+      "x": 4540,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app_compileroptions",
+      "type": "file",
+      "file": "compilerOptions.md",
+      "x": 4740,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app_compileroptions_erasablesyntaxonly",
+      "type": "file",
+      "file": "erasableSyntaxOnly.md",
+      "x": 4940,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app_include",
+      "type": "file",
+      "file": "include.md",
+      "x": 4140,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app_compileroptions_jsx",
+      "type": "file",
+      "file": "jsx.md",
+      "x": 4340,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app_compileroptions_lib",
+      "type": "file",
+      "file": "lib.md",
+      "x": 4540,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app_compileroptions_module",
+      "type": "file",
+      "file": "module.md",
+      "x": 4740,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app_compileroptions_moduledetection",
+      "type": "file",
+      "file": "moduleDetection.md",
+      "x": 4940,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app_compileroptions_moduleresolution",
+      "type": "file",
+      "file": "moduleResolution.md",
+      "x": 4140,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app_compileroptions_noemit",
+      "type": "file",
+      "file": "noEmit.md",
+      "x": 4340,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app_compileroptions_nofallthroughcasesinswitch",
+      "type": "file",
+      "file": "noFallthroughCasesInSwitch.md",
+      "x": 4540,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app_compileroptions_nounusedlocals",
+      "type": "file",
+      "file": "noUnusedLocals.md",
+      "x": 4740,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app_compileroptions_nounusedparameters",
+      "type": "file",
+      "file": "noUnusedParameters.md",
+      "x": 4940,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app_compileroptions_skiplibcheck",
+      "type": "file",
+      "file": "skipLibCheck.md",
+      "x": 4140,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_src",
+      "type": "file",
+      "file": "src.md",
+      "x": 4340,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app_compileroptions_target",
+      "type": "file",
+      "file": "target.md",
+      "x": 4540,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app_compileroptions_tsbuildinfofile",
+      "type": "file",
+      "file": "tsBuildInfoFile.md",
+      "x": 4740,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app",
+      "type": "file",
+      "file": "tsconfig.app.json.md",
+      "x": 4940,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app_compileroptions_types",
+      "type": "file",
+      "file": "types.md",
+      "x": 4140,
+      "y": 1400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_app_compileroptions_verbatimmodulesyntax",
+      "type": "file",
+      "file": "verbatimModuleSyntax.md",
+      "x": 4340,
+      "y": 1400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_vite_client",
+      "type": "file",
+      "file": "viteclient.md",
+      "x": 4540,
+      "y": 1400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g8",
+      "type": "group",
+      "label": "Konfigurasi TS Node",
+      "x": 5740,
+      "y": 1000,
+      "width": 1100,
+      "height": 620,
+      "color": "3"
+    },
+    {
+      "id": "n_tsconfig_node_json_ref_es2023",
+      "type": "file",
+      "file": "ES2023_1.md",
+      "x": 5760,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_node_compileroptions_allowimportingtsextensions",
+      "type": "file",
+      "file": "allowImportingTsExtensions_1.md",
+      "x": 5960,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_node_compileroptions",
+      "type": "file",
+      "file": "compilerOptions_1.md",
+      "x": 6160,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_node_compileroptions_erasablesyntaxonly",
+      "type": "file",
+      "file": "erasableSyntaxOnly_1.md",
+      "x": 6360,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_node_include",
+      "type": "file",
+      "file": "include_1.md",
+      "x": 6560,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_node_compileroptions_lib",
+      "type": "file",
+      "file": "lib_1.md",
+      "x": 5760,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_node_compileroptions_module",
+      "type": "file",
+      "file": "module_1.md",
+      "x": 5960,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_node_compileroptions_moduledetection",
+      "type": "file",
+      "file": "moduleDetection_1.md",
+      "x": 6160,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_node_compileroptions_moduleresolution",
+      "type": "file",
+      "file": "moduleResolution_1.md",
+      "x": 6360,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_node_compileroptions_noemit",
+      "type": "file",
+      "file": "noEmit_1.md",
+      "x": 6560,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_node_compileroptions_nofallthroughcasesinswitch",
+      "type": "file",
+      "file": "noFallthroughCasesInSwitch_1.md",
+      "x": 5760,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_node_compileroptions_nounusedlocals",
+      "type": "file",
+      "file": "noUnusedLocals_1.md",
+      "x": 5960,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_node_compileroptions_nounusedparameters",
+      "type": "file",
+      "file": "noUnusedParameters_1.md",
+      "x": 6160,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_node",
+      "type": "file",
+      "file": "node.md",
+      "x": 6360,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_node_compileroptions_skiplibcheck",
+      "type": "file",
+      "file": "skipLibCheck_1.md",
+      "x": 6560,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_node_compileroptions_target",
+      "type": "file",
+      "file": "target_1.md",
+      "x": 5760,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_node_compileroptions_tsbuildinfofile",
+      "type": "file",
+      "file": "tsBuildInfoFile_1.md",
+      "x": 5960,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_node",
+      "type": "file",
+      "file": "tsconfig.node.json.md",
+      "x": 6160,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_node_compileroptions_types",
+      "type": "file",
+      "file": "types_1.md",
+      "x": 6360,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_node_compileroptions_verbatimmodulesyntax",
+      "type": "file",
+      "file": "verbatimModuleSyntax_1.md",
+      "x": 6560,
+      "y": 1320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ref_vite_config_ts",
+      "type": "file",
+      "file": "vite.config.ts.md",
+      "x": 5760,
+      "y": 1400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g9",
+      "type": "group",
+      "label": "Tab Legacy (Peta/Proyek)",
+      "x": 7360,
+      "y": 1000,
+      "width": 880,
+      "height": 420,
+      "color": "4"
+    },
+    {
+      "id": "n_src_types_dashboard_datarkap",
+      "type": "file",
+      "file": "DataRKAP.md",
+      "x": 7380,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_geospatialtab_geospatialtab",
+      "type": "file",
+      "file": "GeospatialTab().md",
+      "x": 7580,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_geospatialtab",
+      "type": "file",
+      "file": "GeospatialTab.tsx.md",
+      "x": 7780,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_geospatialtab_geospatialtabprops",
+      "type": "file",
+      "file": "GeospatialTabProps.md",
+      "x": 7980,
+      "y": 1080,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_geospatialtab_mapcontroller",
+      "type": "file",
+      "file": "MapController().md",
+      "x": 7380,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_overviewtab_overviewtab",
+      "type": "file",
+      "file": "OverviewTab().md",
+      "x": 7580,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_overviewtab",
+      "type": "file",
+      "file": "OverviewTab.tsx.md",
+      "x": 7780,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_overviewtab_overviewtabprops",
+      "type": "file",
+      "file": "OverviewTabProps.md",
+      "x": 7980,
+      "y": 1160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_proyektab_proyektab",
+      "type": "file",
+      "file": "ProyekTab().md",
+      "x": 7380,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_proyektab",
+      "type": "file",
+      "file": "ProyekTab.tsx.md",
+      "x": 7580,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_proyektab_proyektabprops",
+      "type": "file",
+      "file": "ProyekTabProps.md",
+      "x": 7780,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_dashboard",
+      "type": "file",
+      "file": "dashboard.ts.md",
+      "x": 7980,
+      "y": 1240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g10",
+      "type": "group",
+      "label": "Kontrak Tipe Data",
+      "x": 0,
+      "y": 1800,
+      "width": 880,
+      "height": 420,
+      "color": "5"
+    },
+    {
+      "id": "n_src_types_index_filters",
+      "type": "file",
+      "file": "Filters_1.md",
+      "x": 20,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_index_historibulanan",
+      "type": "file",
+      "file": "HistoriBulanan_1.md",
+      "x": 220,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_index_kumulatiffinancials",
+      "type": "file",
+      "file": "KumulatifFinancials_1.md",
+      "x": 420,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_index_monthlytrend",
+      "type": "file",
+      "file": "MonthlyTrend_1.md",
+      "x": 620,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_index_nkbtrendpoint",
+      "type": "file",
+      "file": "NkbTrendPoint_1.md",
+      "x": 20,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_index_rawmaster",
+      "type": "file",
+      "file": "RawMaster.md",
+      "x": 220,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_index_rawrkap",
+      "type": "file",
+      "file": "RawRKAP.md",
+      "x": 420,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_index_sortdir",
+      "type": "file",
+      "file": "SortDir_2.md",
+      "x": 620,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_index_sortkey",
+      "type": "file",
+      "file": "SortKey_2.md",
+      "x": 20,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_index_unifiedprojectdata",
+      "type": "file",
+      "file": "UnifiedProjectData_1.md",
+      "x": 220,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_index_view",
+      "type": "file",
+      "file": "View_1.md",
+      "x": 420,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_types_index",
+      "type": "file",
+      "file": "index.ts.md",
+      "x": 620,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g11",
+      "type": "group",
+      "label": "Kartu Statistik",
+      "x": 2060,
+      "y": 1800,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_src_components_statcard_statcard",
+      "type": "file",
+      "file": "StatCard().md",
+      "x": 2080,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_statcard",
+      "type": "file",
+      "file": "StatCard.tsx.md",
+      "x": 2280,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_statcard_statcardprops",
+      "type": "file",
+      "file": "StatCardProps.md",
+      "x": 2080,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_statcard_itemvariants",
+      "type": "file",
+      "file": "itemVariants.md",
+      "x": 2280,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g12",
+      "type": "group",
+      "label": "Tab Analitik Legacy",
+      "x": 4120,
+      "y": 1800,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_src_components_analitiktab_analitiktab",
+      "type": "file",
+      "file": "AnalitikTab().md",
+      "x": 4140,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_analitiktab",
+      "type": "file",
+      "file": "AnalitikTab.tsx.md",
+      "x": 4340,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_analitiktab_analitiktabprops",
+      "type": "file",
+      "file": "AnalitikTabProps.md",
+      "x": 4140,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g13",
+      "type": "group",
+      "label": "Kartu Ringkasan",
+      "x": 5740,
+      "y": 1800,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_src_components_summarycards_summarycards",
+      "type": "file",
+      "file": "SummaryCards().md",
+      "x": 5760,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_summarycards",
+      "type": "file",
+      "file": "SummaryCards.tsx.md",
+      "x": 5960,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_components_summarycards_summarycardsprops",
+      "type": "file",
+      "file": "SummaryCardsProps.md",
+      "x": 5760,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g14",
+      "type": "group",
+      "label": "Referensi Tsconfig",
+      "x": 7360,
+      "y": 1800,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_tsconfig_files",
+      "type": "file",
+      "file": "files.md",
+      "x": 7380,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig_references",
+      "type": "file",
+      "file": "references.md",
+      "x": 7580,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tsconfig",
+      "type": "file",
+      "file": "tsconfig.json.md",
+      "x": 7380,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g15",
+      "type": "group",
+      "label": "Formatter Rupiah",
+      "x": 0,
+      "y": 2300,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_src_utils_formatters_formatrupiah",
+      "type": "file",
+      "file": "formatRupiah().md",
+      "x": 20,
+      "y": 2380,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_src_utils_formatters",
+      "type": "file",
+      "file": "formatters.ts.md",
+      "x": 220,
+      "y": 2380,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g16",
+      "type": "group",
+      "label": "Konfigurasi ESLint",
+      "x": 2060,
+      "y": 2300,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_eslint_config",
+      "type": "file",
+      "file": "eslint.config.js.md",
+      "x": 2080,
+      "y": 2380,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g17",
+      "type": "group",
+      "label": "Konfigurasi Vite",
+      "x": 4120,
+      "y": 2300,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_vite_config",
+      "type": "file",
+      "file": "vite.config.ts_1.md",
+      "x": 4140,
+      "y": 2380,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_package_package_dependencies",
+      "fromNode": "n_package",
+      "toNode": "n_package_dependencies",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_package_devdependencies",
+      "fromNode": "n_package",
+      "toNode": "n_package_devdependencies",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_package_name",
+      "fromNode": "n_package",
+      "toNode": "n_package_name",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_package_private",
+      "fromNode": "n_package",
+      "toNode": "n_package_private",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_package_scripts",
+      "fromNode": "n_package",
+      "toNode": "n_package_scripts",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_package_type",
+      "fromNode": "n_package",
+      "toNode": "n_package_type",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_package_version",
+      "fromNode": "n_package",
+      "toNode": "n_package_version",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_scripts_package_scripts_build",
+      "fromNode": "n_package_scripts",
+      "toNode": "n_package_scripts_build",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_scripts_package_scripts_dev",
+      "fromNode": "n_package_scripts",
+      "toNode": "n_package_scripts_dev",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_scripts_package_scripts_lint",
+      "fromNode": "n_package_scripts",
+      "toNode": "n_package_scripts_lint",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_scripts_package_scripts_preview",
+      "fromNode": "n_package_scripts",
+      "toNode": "n_package_scripts_preview",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_axios",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_axios",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_azure_msal_browser",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_azure_msal_browser",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_azure_msal_react",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_azure_msal_react",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_framer_motion",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_framer_motion",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_html2canvas",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_html2canvas",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_leaflet",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_leaflet",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_lucide_react",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_lucide_react",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_papaparse",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_papaparse",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_pptxgenjs",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_pptxgenjs",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_react",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_react",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_react_dom",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_react_dom",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_react_leaflet",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_react_leaflet",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_react_router_dom",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_react_router_dom",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_recharts",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_recharts",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_tailwindcss",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_tailwindcss",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_tailwindcss_vite",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_tailwindcss_vite",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_tanstack_react_query",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_tanstack_react_query",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_tanstack_react_table",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_tanstack_react_table",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_xlsx",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_xlsx",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_package_dependencies_zustand",
+      "fromNode": "n_package_dependencies",
+      "toNode": "n_package_dependencies_zustand",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_azure_msal_browser_azure_msal_browser",
+      "fromNode": "n_package_dependencies_azure_msal_browser",
+      "toNode": "n_azure_msal_browser",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_azure_msal_react_azure_msal_react",
+      "fromNode": "n_package_dependencies_azure_msal_react",
+      "toNode": "n_azure_msal_react",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_tailwindcss_vite_tailwindcss_vite",
+      "fromNode": "n_package_dependencies_tailwindcss_vite",
+      "toNode": "n_tailwindcss_vite",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_tanstack_react_query_tanstack_react_query",
+      "fromNode": "n_package_dependencies_tanstack_react_query",
+      "toNode": "n_tanstack_react_query",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_tanstack_react_table_tanstack_react_table",
+      "fromNode": "n_package_dependencies_tanstack_react_table",
+      "toNode": "n_tanstack_react_table",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_axios_axios",
+      "fromNode": "n_package_dependencies_axios",
+      "toNode": "n_axios",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_framer_motion_framer_motion",
+      "fromNode": "n_package_dependencies_framer_motion",
+      "toNode": "n_framer_motion",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_html2canvas_html2canvas",
+      "fromNode": "n_package_dependencies_html2canvas",
+      "toNode": "n_html2canvas",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_leaflet_leaflet",
+      "fromNode": "n_package_dependencies_leaflet",
+      "toNode": "n_leaflet",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_lucide_react_lucide_react",
+      "fromNode": "n_package_dependencies_lucide_react",
+      "toNode": "n_lucide_react",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_papaparse_papaparse",
+      "fromNode": "n_package_dependencies_papaparse",
+      "toNode": "n_papaparse",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_pptxgenjs_pptxgenjs",
+      "fromNode": "n_package_dependencies_pptxgenjs",
+      "toNode": "n_pptxgenjs",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_pptxgenjs_src_components_views_paparanview_paparanview",
+      "fromNode": "n_package_dependencies_pptxgenjs",
+      "toNode": "n_src_components_views_paparanview_paparanview",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_react_react",
+      "fromNode": "n_package_dependencies_react",
+      "toNode": "n_react",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_react_src_components_auth_particlesbg",
+      "fromNode": "n_package_dependencies_react",
+      "toNode": "n_src_components_auth_particlesbg",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_react_src_components_dashboard_dashboardapp",
+      "fromNode": "n_package_dependencies_react",
+      "toNode": "n_src_components_dashboard_dashboardapp",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_react_src_components_filterbar_filterbar",
+      "fromNode": "n_package_dependencies_react",
+      "toNode": "n_src_components_filterbar_filterbar",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_react_src_components_views_commercialperformance_commercialperformance",
+      "fromNode": "n_package_dependencies_react",
+      "toNode": "n_src_components_views_commercialperformance_commercialperformance",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_react_src_components_views_detailmatrixview_detailmatrixview",
+      "fromNode": "n_package_dependencies_react",
+      "toNode": "n_src_components_views_detailmatrixview_detailmatrixview",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_react_src_components_views_masterview_masterview",
+      "fromNode": "n_package_dependencies_react",
+      "toNode": "n_src_components_views_masterview_masterview",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_react_dom_react_dom",
+      "fromNode": "n_package_dependencies_react_dom",
+      "toNode": "n_react_dom",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_react_dom_src_main_init",
+      "fromNode": "n_package_dependencies_react_dom",
+      "toNode": "n_src_main_init",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_react_leaflet_react_leaflet",
+      "fromNode": "n_package_dependencies_react_leaflet",
+      "toNode": "n_react_leaflet",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_react_router_dom_react_router_dom",
+      "fromNode": "n_package_dependencies_react_router_dom",
+      "toNode": "n_react_router_dom",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_recharts_recharts",
+      "fromNode": "n_package_dependencies_recharts",
+      "toNode": "n_recharts",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_tailwindcss_tailwindcss",
+      "fromNode": "n_package_dependencies_tailwindcss",
+      "toNode": "n_tailwindcss",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_xlsx_xlsx",
+      "fromNode": "n_package_dependencies_xlsx",
+      "toNode": "n_xlsx",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_xlsx_src_components_dashboard_dashboardapp",
+      "fromNode": "n_package_dependencies_xlsx",
+      "toNode": "n_src_components_dashboard_dashboardapp",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_package_dependencies_zustand_zustand",
+      "fromNode": "n_package_dependencies_zustand",
+      "toNode": "n_zustand",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_babel_core",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_babel_core",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_babel_plugin_react_compiler",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_babel_plugin_react_compiler",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_eslint",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_eslint",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_eslint_js",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_eslint_js",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_eslint_plugin_react_hooks",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_eslint_plugin_react_hooks",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_eslint_plugin_react_refresh",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_eslint_plugin_react_refresh",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_globals",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_globals",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_rolldown_plugin_babel",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_rolldown_plugin_babel",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_types_babel_core",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_types_babel_core",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_types_leaflet",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_types_leaflet",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_types_node",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_types_node",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_types_papaparse",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_types_papaparse",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_types_react",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_types_react",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_types_react_dom",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_types_react_dom",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_typescript",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_typescript",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_typescript_eslint",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_typescript_eslint",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_vite",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_vite",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_package_devdependencies_vitejs_plugin_react",
+      "fromNode": "n_package_devdependencies",
+      "toNode": "n_package_devdependencies_vitejs_plugin_react",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_babel_core_babel_core",
+      "fromNode": "n_package_devdependencies_babel_core",
+      "toNode": "n_babel_core",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_eslint_js_eslint_js",
+      "fromNode": "n_package_devdependencies_eslint_js",
+      "toNode": "n_eslint_js",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_rolldown_plugin_babel_rolldown_plugin_babel",
+      "fromNode": "n_package_devdependencies_rolldown_plugin_babel",
+      "toNode": "n_rolldown_plugin_babel",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_types_babel_core_types_babel_core",
+      "fromNode": "n_package_devdependencies_types_babel_core",
+      "toNode": "n_types_babel_core",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_types_leaflet_types_leaflet",
+      "fromNode": "n_package_devdependencies_types_leaflet",
+      "toNode": "n_types_leaflet",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_types_node_types_node",
+      "fromNode": "n_package_devdependencies_types_node",
+      "toNode": "n_types_node",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_types_papaparse_types_papaparse",
+      "fromNode": "n_package_devdependencies_types_papaparse",
+      "toNode": "n_types_papaparse",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_types_react_types_react",
+      "fromNode": "n_package_devdependencies_types_react",
+      "toNode": "n_types_react",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_types_react_dom_types_react_dom",
+      "fromNode": "n_package_devdependencies_types_react_dom",
+      "toNode": "n_types_react_dom",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_vitejs_plugin_react_vitejs_plugin_react",
+      "fromNode": "n_package_devdependencies_vitejs_plugin_react",
+      "toNode": "n_vitejs_plugin_react",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_babel_plugin_react_compiler_babel_plugin_react_compiler",
+      "fromNode": "n_package_devdependencies_babel_plugin_react_compiler",
+      "toNode": "n_babel_plugin_react_compiler",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_eslint_eslint",
+      "fromNode": "n_package_devdependencies_eslint",
+      "toNode": "n_eslint",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_eslint_plugin_react_hooks_eslint_plugin_react_hooks",
+      "fromNode": "n_package_devdependencies_eslint_plugin_react_hooks",
+      "toNode": "n_eslint_plugin_react_hooks",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_eslint_plugin_react_refresh_eslint_plugin_react_refresh",
+      "fromNode": "n_package_devdependencies_eslint_plugin_react_refresh",
+      "toNode": "n_eslint_plugin_react_refresh",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_globals_globals",
+      "fromNode": "n_package_devdependencies_globals",
+      "toNode": "n_globals",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_typescript_typescript",
+      "fromNode": "n_package_devdependencies_typescript",
+      "toNode": "n_typescript",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_typescript_eslint_typescript_eslint",
+      "fromNode": "n_package_devdependencies_typescript_eslint",
+      "toNode": "n_typescript_eslint",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_package_devdependencies_vite_vite",
+      "fromNode": "n_package_devdependencies_vite",
+      "toNode": "n_vite",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_app_app",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_app_app",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_app_pagetransitionoverlay",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_app_pagetransitionoverlay",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_app_pagetransitionoverlayprops",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_app_pagetransitionoverlayprops",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_auth",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_auth",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_auth_authgate",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_auth_authgate",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_auth_msalinstance",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_auth_msalinstance",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_dashboard",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_dashboard",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_globalcss",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_globalcss",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_components_globalcss_globalcss",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_components_globalcss_globalcss",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_hooks",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_hooks",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_hooks_usepagetransition",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_hooks_usepagetransition",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_types",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_types",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_types_overlayphase",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_types_overlayphase",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_src_main",
+      "fromNode": "n_src_app",
+      "toNode": "n_src_main",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_pagetransitionoverlayprops_src_types_overlayphase",
+      "fromNode": "n_src_app_pagetransitionoverlayprops",
+      "toNode": "n_src_types_overlayphase",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_src_app_app_src_hooks_usepagetransition",
+      "fromNode": "n_src_app_app",
+      "toNode": "n_src_hooks_usepagetransition",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_analitiktab_src_components_analitiktab_analitiktab",
+      "fromNode": "n_src_components_analitiktab",
+      "toNode": "n_src_components_analitiktab_analitiktab",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_analitiktab_src_components_analitiktab_analitiktabprops",
+      "fromNode": "n_src_components_analitiktab",
+      "toNode": "n_src_components_analitiktab_analitiktabprops",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_animatednumber_src_components_animatednumber_animatednumber",
+      "fromNode": "n_src_components_animatednumber",
+      "toNode": "n_src_components_animatednumber_animatednumber",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_animatednumber_src_components_animatednumber_animatednumberprops",
+      "fromNode": "n_src_components_animatednumber",
+      "toNode": "n_src_components_animatednumber_animatednumberprops",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_animatednumber_src_components_views_commercialperformance",
+      "fromNode": "n_src_components_animatednumber",
+      "toNode": "n_src_components_views_commercialperformance",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_animatednumber_src_components_views_operationalperformance",
+      "fromNode": "n_src_components_animatednumber",
+      "toNode": "n_src_components_views_operationalperformance",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_animatednumber_src_components_views_overviewview",
+      "fromNode": "n_src_components_animatednumber",
+      "toNode": "n_src_components_views_overviewview",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_animatednumber_src_components_views_portfolioanalytics",
+      "fromNode": "n_src_components_animatednumber",
+      "toNode": "n_src_components_views_portfolioanalytics",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_animatednumber_src_components_views_qshepanel",
+      "fromNode": "n_src_components_animatednumber",
+      "toNode": "n_src_components_views_qshepanel",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_animatednumber_animatednumber_src_components_views_commercialperformance",
+      "fromNode": "n_src_components_animatednumber_animatednumber",
+      "toNode": "n_src_components_views_commercialperformance",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_animatednumber_animatednumber_src_components_views_operationalperformance",
+      "fromNode": "n_src_components_animatednumber_animatednumber",
+      "toNode": "n_src_components_views_operationalperformance",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_animatednumber_animatednumber_src_components_views_overviewview",
+      "fromNode": "n_src_components_animatednumber_animatednumber",
+      "toNode": "n_src_components_views_overviewview",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_animatednumber_animatednumber_src_components_views_portfolioanalytics",
+      "fromNode": "n_src_components_animatednumber_animatednumber",
+      "toNode": "n_src_components_views_portfolioanalytics",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_animatednumber_animatednumber_src_components_views_qshepanel",
+      "fromNode": "n_src_components_animatednumber_animatednumber",
+      "toNode": "n_src_components_views_qshepanel",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_src_components_auth_authgate",
+      "fromNode": "n_src_components_auth",
+      "toNode": "n_src_components_auth_authgate",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_src_components_auth_authgateprops",
+      "fromNode": "n_src_components_auth",
+      "toNode": "n_src_components_auth_authgateprops",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_src_components_auth_graphconfig",
+      "fromNode": "n_src_components_auth",
+      "toNode": "n_src_components_auth_graphconfig",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_src_components_auth_graphfilesrequest",
+      "fromNode": "n_src_components_auth",
+      "toNode": "n_src_components_auth_graphfilesrequest",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_src_components_auth_loginpage",
+      "fromNode": "n_src_components_auth",
+      "toNode": "n_src_components_auth_loginpage",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_src_components_auth_loginpageprops",
+      "fromNode": "n_src_components_auth",
+      "toNode": "n_src_components_auth_loginpageprops",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_src_components_auth_loginrequest",
+      "fromNode": "n_src_components_auth",
+      "toNode": "n_src_components_auth_loginrequest",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_src_components_auth_msalconfig",
+      "fromNode": "n_src_components_auth",
+      "toNode": "n_src_components_auth_msalconfig",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_src_components_auth_msalinstance",
+      "fromNode": "n_src_components_auth",
+      "toNode": "n_src_components_auth_msalinstance",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_src_components_auth_particlesbg",
+      "fromNode": "n_src_components_auth",
+      "toNode": "n_src_components_auth_particlesbg",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_src_components_auth_themekey",
+      "fromNode": "n_src_components_auth",
+      "toNode": "n_src_components_auth_themekey",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_src_components_auth_themes",
+      "fromNode": "n_src_components_auth",
+      "toNode": "n_src_components_auth_themes",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_src_components_auth_themetoggle",
+      "fromNode": "n_src_components_auth",
+      "toNode": "n_src_components_auth_themetoggle",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_src_components_dashboard",
+      "fromNode": "n_src_components_auth",
+      "toNode": "n_src_components_dashboard",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_src_main",
+      "fromNode": "n_src_components_auth",
+      "toNode": "n_src_main",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_src_usesharepointfile",
+      "fromNode": "n_src_components_auth",
+      "toNode": "n_src_usesharepointfile",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_loginrequest_src_components_dashboard",
+      "fromNode": "n_src_components_auth_loginrequest",
+      "toNode": "n_src_components_dashboard",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_graphfilesrequest_src_usesharepointfile",
+      "fromNode": "n_src_components_auth_graphfilesrequest",
+      "toNode": "n_src_usesharepointfile",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_graphconfig_src_components_dashboard",
+      "fromNode": "n_src_components_auth_graphconfig",
+      "toNode": "n_src_components_dashboard",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_graphconfig_src_usesharepointfile",
+      "fromNode": "n_src_components_auth_graphconfig",
+      "toNode": "n_src_usesharepointfile",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_auth_msalinstance_src_main",
+      "fromNode": "n_src_components_auth_msalinstance",
+      "toNode": "n_src_main",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_components_dashboard_dashboardapp",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_components_dashboard_dashboardapp",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_components_dashboard_graphprofile",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_components_dashboard_graphprofile",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_components_dashboard_masterview",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_components_dashboard_masterview",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_components_dashboard_month_order",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_components_dashboard_month_order",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_components_dashboard_nav_items",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_components_dashboard_nav_items",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_components_dashboard_paparanview",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_components_dashboard_paparanview",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_components_dashboard_props",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_components_dashboard_props",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_components_dashboard_seg_qshe_only",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_components_dashboard_seg_qshe_only",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_components_filterbar",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_components_filterbar",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_components_views_overviewview",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_components_views_overviewview",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_components_views_ppidata",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_components_views_ppidata",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_components_views_ppidata_kuadran",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_components_views_ppidata_kuadran",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_components_views_ppidata_kuadran_info",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_components_views_ppidata_kuadran_info",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_components_views_projectperformanceview",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_components_views_projectperformanceview",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_components_views_qshepanel",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_components_views_qshepanel",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_constants",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_constants",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_constants_default_filters",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_constants_default_filters",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_constants_theme",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_constants_theme",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_types",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_types",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_types_allproyekrow",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_types_allproyekrow",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_types_annualfinancialpoint",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_types_annualfinancialpoint",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_types_filters",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_types_filters",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_types_historibulanan",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_types_historibulanan",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_types_kumulatiffinancials",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_types_kumulatiffinancials",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_types_nkbtrendpoint",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_types_nkbtrendpoint",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_types_sortdir",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_types_sortdir",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_types_sortkey",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_types_sortkey",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_types_unifiedprojectdata",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_types_unifiedprojectdata",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_types_view",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_types_view",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_types_yoydatapoint",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_types_yoydatapoint",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_usesharepointfile",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_usesharepointfile",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_usesharepointfile_usesharepointfile",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_usesharepointfile_usesharepointfile",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_utils",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_utils",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_utils_isdikecualikan",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_utils_isdikecualikan",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_utils_isoverheadid",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_utils_isoverheadid",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_utils_isvalidcitytext",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_utils_isvalidcitytext",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_utils_normalizeprovinsi",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_utils_normalizeprovinsi",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_utils_parsecoordinate",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_utils_parsecoordinate",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_utils_parsemapppct",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_utils_parsemapppct",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_src_utils_validateandfixlatlng",
+      "fromNode": "n_src_components_dashboard",
+      "toNode": "n_src_utils_validateandfixlatlng",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_nav_items_src_components_dashboard_dashboardapp",
+      "fromNode": "n_src_components_dashboard_nav_items",
+      "toNode": "n_src_components_dashboard_dashboardapp",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_month_order_src_components_dashboard_dashboardapp",
+      "fromNode": "n_src_components_dashboard_month_order",
+      "toNode": "n_src_components_dashboard_dashboardapp",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_dashboardapp_src_usesharepointfile_usesharepointfile",
+      "fromNode": "n_src_components_dashboard_dashboardapp",
+      "toNode": "n_src_usesharepointfile_usesharepointfile",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_dashboardapp_src_utils_isdikecualikan",
+      "fromNode": "n_src_components_dashboard_dashboardapp",
+      "toNode": "n_src_utils_isdikecualikan",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_dashboardapp_src_utils_isoverheadid",
+      "fromNode": "n_src_components_dashboard_dashboardapp",
+      "toNode": "n_src_utils_isoverheadid",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_dashboardapp_src_utils_isvalidcitytext",
+      "fromNode": "n_src_components_dashboard_dashboardapp",
+      "toNode": "n_src_utils_isvalidcitytext",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_dashboardapp_src_utils_normalizeprovinsi",
+      "fromNode": "n_src_components_dashboard_dashboardapp",
+      "toNode": "n_src_utils_normalizeprovinsi",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_dashboardapp_src_utils_parsecoordinate",
+      "fromNode": "n_src_components_dashboard_dashboardapp",
+      "toNode": "n_src_utils_parsecoordinate",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_dashboardapp_src_utils_parsemapppct",
+      "fromNode": "n_src_components_dashboard_dashboardapp",
+      "toNode": "n_src_utils_parsemapppct",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_dashboard_dashboardapp_src_utils_validateandfixlatlng",
+      "fromNode": "n_src_components_dashboard_dashboardapp",
+      "toNode": "n_src_utils_validateandfixlatlng",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_filterbar_src_components_filterbar_filterbar",
+      "fromNode": "n_src_components_filterbar",
+      "toNode": "n_src_components_filterbar_filterbar",
+      "label": "indirect_call [INFERRED]"
+    },
+    {
+      "id": "e_src_components_filterbar_src_components_filterbar_filterbarprops",
+      "fromNode": "n_src_components_filterbar",
+      "toNode": "n_src_components_filterbar_filterbarprops",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_src_components_filterbar_src_components_filterbar_hidden_segments",
+      "fromNode": "n_src_components_filterbar",
+      "toNode": "n_src_components_filterbar_hidden_segments",
+      "label": "contains [EXTRACTED]"
+    }
+  ]
+}
