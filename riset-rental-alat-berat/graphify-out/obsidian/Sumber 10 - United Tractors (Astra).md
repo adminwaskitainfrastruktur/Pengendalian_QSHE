@@ -1,11 +1,11 @@
 ---
 source_file: "Sumber.md"
 type: "concept"
-community: "Pemain Besar Indonesia"
+community: "Pola Fitur Inti Situs"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Pemain_Besar_Indonesia
+  - community/Pola_Fitur_Inti_Situs
 ---
 
 # Sumber #10 - United Tractors (Astra)
@@ -14,4 +14,4 @@ tags:
 - [[Sumber]] - `references` [EXTRACTED]
 - [[United Tractors (Komatsu, UD Trucks, Scania, Bomag, Tadano)]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Pemain_Besar_Indonesia
+#graphify/concept #graphify/EXTRACTED #community/Pola_Fitur_Inti_Situs

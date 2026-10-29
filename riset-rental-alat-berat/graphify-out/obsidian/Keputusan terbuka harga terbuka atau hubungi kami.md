@@ -1,11 +1,11 @@
 ---
 source_file: "Fitur/Fitur - Harga bertingkat.md"
 type: "rationale"
-community: "Keputusan Terbuka dan Stack"
+community: "Harga Terbuka dan Keputusan"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Keputusan_Terbuka_dan_Stack
+  - community/Harga_Terbuka_dan_Keputusan
 ---
 
 # Keputusan terbuka: harga terbuka atau hubungi kami
@@ -14,4 +14,4 @@ tags:
 - [[Fitur - Harga bertingkat]] - `conceptually_related_to` [EXTRACTED]
 - [[Gap dan keputusan terbuka]] - `references` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Keputusan_Terbuka_dan_Stack
+#graphify/rationale #graphify/EXTRACTED #community/Harga_Terbuka_dan_Keputusan

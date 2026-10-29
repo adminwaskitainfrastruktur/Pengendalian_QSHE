@@ -36,6 +36,11 @@ Peta isi vault. Mulai dari sini, lalu telusuri lewat graph view atau `graphify-o
 - [[Struktur - Halaman detail unit]]
 - [[Teknis - Stack dan lokasi proyek]]
 
+## Hasil deep research (2026-10-29)
+- [[Referensi website rental alat berat]] (laporan akhir)
+- Catatan sumber: [[situs_global]], [[situs_indonesia]], [[harga_dan_kontrak]], [[fitur_dan_stack]], [[seo_kepercayaan_regulasi]]
+- Semua klaim eksternal di sini berstatus cuplikan pencarian. Lihat [[Gap dan keputusan terbuka]].
+
 ## Yang masih terbuka
 - [[Gap dan keputusan terbuka]]
 - [[Sumber]]

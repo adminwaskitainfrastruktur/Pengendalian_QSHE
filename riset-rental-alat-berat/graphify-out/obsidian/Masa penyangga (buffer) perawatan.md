@@ -1,11 +1,11 @@
 ---
 source_file: "Fitur/Fitur - Kalender ketersediaan.md"
 type: "concept"
-community: "Katalog, Ketersediaan, Pasar"
+community: "Ketersediaan dan Kontrak Digital"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Katalog_Ketersediaan_Pasar
+  - community/Ketersediaan_dan_Kontrak_Digital
 ---
 
 # Masa penyangga (buffer) perawatan
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Fitur - Kalender ketersediaan]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Katalog_Ketersediaan_Pasar
+#graphify/concept #graphify/EXTRACTED #community/Ketersediaan_dan_Kontrak_Digital

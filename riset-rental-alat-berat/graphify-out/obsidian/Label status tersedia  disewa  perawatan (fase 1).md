@@ -1,11 +1,11 @@
 ---
 source_file: "Fitur/Fitur - Kalender ketersediaan.md"
 type: "concept"
-community: "Katalog, Ketersediaan, Pasar"
+community: "Ketersediaan dan Kontrak Digital"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Katalog_Ketersediaan_Pasar
+  - community/Ketersediaan_dan_Kontrak_Digital
 ---
 
 # Label status tersedia / disewa / perawatan (fase 1)
@@ -15,4 +15,4 @@ tags:
 - [[Fitur - Kalender ketersediaan]] - `conceptually_related_to` [EXTRACTED]
 - [[Ref - Marketplace dan studi akademik]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Katalog_Ketersediaan_Pasar
+#graphify/concept #graphify/EXTRACTED #community/Ketersediaan_dan_Kontrak_Digital

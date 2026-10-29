@@ -1,11 +1,11 @@
 ---
 source_file: "Sumber.md"
 type: "concept"
-community: "Marketplace dan Studi Akademik"
+community: "Ketersediaan dan Kontrak Digital"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Marketplace_dan_Studi_Akademik
+  - community/Ketersediaan_dan_Kontrak_Digital
 ---
 
 # Sumber #6 - HK Equipment (eprints UMS) dan WhatsApp Catalog (Wati)
@@ -14,4 +14,4 @@ tags:
 - [[HK Equipment (Sragen) - aplikasi web rental Laravel+MySQL]] - `cites` [EXTRACTED]
 - [[Sumber]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Marketplace_dan_Studi_Akademik
+#graphify/concept #graphify/EXTRACTED #community/Ketersediaan_dan_Kontrak_Digital

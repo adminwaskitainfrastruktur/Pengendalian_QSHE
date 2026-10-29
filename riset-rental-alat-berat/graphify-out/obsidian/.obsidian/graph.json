@@ -1,59 +1,66 @@
 {
   "colorGroups": [
     {
-      "query": "tag:#community/Harga_dan_Biaya_Sewa",
+      "query": "tag:#community/Pola_Fitur_Inti_Situs",
       "color": {
         "a": 1,
         "rgb": 5142951
       }
     },
     {
-      "query": "tag:#community/Template_dan_Pola_Beranda",
+      "query": "tag:#community/Harga_Terbuka_dan_Keputusan",
       "color": {
         "a": 1,
         "rgb": 15896107
       }
     },
     {
-      "query": "tag:#community/Sitemap_dan_Alur_Kontak",
+      "query": "tag:#community/SEO_Kepercayaan_K3",
       "color": {
         "a": 1,
         "rgb": 14767961
       }
     },
     {
-      "query": "tag:#community/Katalog_Ketersediaan_Pasar",
+      "query": "tag:#community/Laporan_Katalog_dan_Penawaran",
       "color": {
         "a": 1,
         "rgb": 7780274
       }
     },
     {
-      "query": "tag:#community/Keputusan_Terbuka_dan_Stack",
+      "query": "tag:#community/Software_dan_Stack_Teknis",
       "color": {
         "a": 1,
         "rgb": 5873999
       }
     },
     {
-      "query": "tag:#community/Marketplace_dan_Studi_Akademik",
+      "query": "tag:#community/Situs_Global_dan_Pola_Mobile",
       "color": {
         "a": 1,
         "rgb": 15583560
       }
     },
     {
-      "query": "tag:#community/Area_Layanan_dan_Dealer",
+      "query": "tag:#community/Pasar_Kontrak_Dokumen",
       "color": {
         "a": 1,
         "rgb": 11565729
       }
     },
     {
-      "query": "tag:#community/Pemain_Besar_Indonesia",
+      "query": "tag:#community/Pemain_dan_Situs_Indonesia",
       "color": {
         "a": 1,
         "rgb": 16752039
+      }
+    },
+    {
+      "query": "tag:#community/Ketersediaan_dan_Kontrak_Digital",
+      "color": {
+        "a": 1,
+        "rgb": 10253663
       }
     }
   ]

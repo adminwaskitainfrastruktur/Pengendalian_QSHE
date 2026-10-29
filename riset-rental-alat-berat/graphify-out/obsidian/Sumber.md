@@ -1,24 +1,28 @@
 ---
 source_file: "Sumber.md"
 type: "document"
-community: "Template dan Pola Beranda"
+community: "Pola Fitur Inti Situs"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Template_dan_Pola_Beranda
+  - community/Pola_Fitur_Inti_Situs
 ---
 
 # Sumber
 
 ## Connections
 - [[00 - Index (MOC)]] - `references` [EXTRACTED]
+- [[Desain website rental alat berat internasional]] - `references` [INFERRED]
 - [[Fitur - CTA WhatsApp]] - `cites` [EXTRACTED]
 - [[Fitur - Form permintaan penawaran (RFQ)]] - `cites` [EXTRACTED]
 - [[Fitur - Harga bertingkat]] - `cites` [EXTRACTED]
 - [[Fitur - Kalender ketersediaan]] - `cites` [EXTRACTED]
 - [[Fitur - Katalog dan filter unit]] - `cites` [EXTRACTED]
 - [[Fitur - Kontrak digital dan pengingat jatuh tempo]] - `cites` [EXTRACTED]
+- [[Fitur, software, dan opsi teknis website rental alat berat untuk Indonesia]] - `references` [INFERRED]
+- [[Harga dan Kontrak Rental Alat Berat di Indonesia]] - `references` [INFERRED]
 - [[Katalog WhatsApp Business dan QR code]] - `cites` [EXTRACTED]
+- [[Laporan Bangun katalog dan penawaran dulu, otomasi menyusul]] - `references` [INFERRED]
 - [[Pasar - Biaya tambahan di luar tarif]] - `cites` [EXTRACTED]
 - [[Pasar - Harga sewa excavator Jakarta]] - `cites` [EXTRACTED]
 - [[Pasar - Ukuran pasar Indonesia]] - `cites` [EXTRACTED]
@@ -30,6 +34,8 @@ tags:
 - [[Ref - Template Equipo]] - `references` [EXTRACTED]
 - [[Ref - Template Machima]] - `references` [EXTRACTED]
 - [[Ref - United Tractors dan Trakindo]] - `references` [EXTRACTED]
+- [[SEO, kepercayaan, dan regulasiK3 rental alat berat]] - `references` [INFERRED]
+- [[Situs rental dan dealer alat berat di Indonesia]] - `references` [INFERRED]
 - [[Sumber 1 - Machima (Webflow, Wrapmarket)]] - `references` [EXTRACTED]
 - [[Sumber 10 - United Tractors (Astra)]] - `references` [EXTRACTED]
 - [[Sumber 11 - Pasarmarketplace ukmindonesia, Prasetiya Mulya elib]] - `references` [EXTRACTED]
@@ -42,4 +48,4 @@ tags:
 - [[Sumber 8 - Penyedia lokal indoexca, sewaalat, pusatalatberat]] - `references` [EXTRACTED]
 - [[Sumber 9 - Liebherr Indonesia menyewa mesin konstruksi]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Template_dan_Pola_Beranda
+#graphify/document #graphify/EXTRACTED #community/Pola_Fitur_Inti_Situs

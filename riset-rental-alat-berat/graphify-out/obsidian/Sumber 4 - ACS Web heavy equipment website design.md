@@ -1,11 +1,11 @@
 ---
 source_file: "Sumber.md"
 type: "concept"
-community: "Katalog, Ketersediaan, Pasar"
+community: "Pola Fitur Inti Situs"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Katalog_Ketersediaan_Pasar
+  - community/Pola_Fitur_Inti_Situs
 ---
 
 # Sumber #4 - ACS Web: heavy equipment website design
@@ -14,4 +14,4 @@ tags:
 - [[Mid Country Machinery (contoh ACS Web Design)]] - `cites` [EXTRACTED]
 - [[Sumber]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Katalog_Ketersediaan_Pasar
+#graphify/concept #graphify/EXTRACTED #community/Pola_Fitur_Inti_Situs

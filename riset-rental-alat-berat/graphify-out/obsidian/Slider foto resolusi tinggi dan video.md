@@ -1,11 +1,11 @@
 ---
 source_file: "Referensi/Ref - Caterpillar dan dealer alat berat.md"
 type: "concept"
-community: "Area Layanan dan Dealer"
+community: "Pola Fitur Inti Situs"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Area_Layanan_dan_Dealer
+  - community/Pola_Fitur_Inti_Situs
 ---
 
 # Slider foto resolusi tinggi dan video
@@ -14,4 +14,4 @@ tags:
 - [[Fitur - Katalog dan filter unit]] - `references` [EXTRACTED]
 - [[Ref - Caterpillar dan dealer alat berat]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Area_Layanan_dan_Dealer
+#graphify/concept #graphify/EXTRACTED #community/Pola_Fitur_Inti_Situs

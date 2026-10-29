@@ -1,11 +1,11 @@
 ---
 source_file: "Referensi/Ref - Template Equipo.md"
 type: "document"
-community: "Template dan Pola Beranda"
+community: "Pola Fitur Inti Situs"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Template_dan_Pola_Beranda
+  - community/Pola_Fitur_Inti_Situs
 ---
 
 # Ref - Template Equipo
@@ -19,4 +19,4 @@ tags:
 - [[Struktur - Sitemap usulan]] - `references` [EXTRACTED]
 - [[Sumber]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Template_dan_Pola_Beranda
+#graphify/document #graphify/EXTRACTED #community/Pola_Fitur_Inti_Situs

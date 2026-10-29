@@ -1,11 +1,11 @@
 ---
 source_file: "Struktur/Struktur - Sitemap usulan.md"
 type: "concept"
-community: "Area Layanan dan Dealer"
+community: "Harga Terbuka dan Keputusan"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Area_Layanan_dan_Dealer
+  - community/Harga_Terbuka_dan_Keputusan
 ---
 
 # Halaman Area layanan
@@ -15,4 +15,4 @@ tags:
 - [[Halaman layanan per kotawilayah]] - `conceptually_related_to` [INFERRED]
 - [[Struktur - Sitemap usulan]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Area_Layanan_dan_Dealer
+#graphify/concept #graphify/EXTRACTED #community/Harga_Terbuka_dan_Keputusan

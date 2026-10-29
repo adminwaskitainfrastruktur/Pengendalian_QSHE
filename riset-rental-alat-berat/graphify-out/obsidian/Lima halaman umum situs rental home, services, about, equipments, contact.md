@@ -1,11 +1,11 @@
 ---
 source_file: "Referensi/Ref - Marketplace dan studi akademik.md"
 type: "concept"
-community: "Sitemap dan Alur Kontak"
+community: "Ketersediaan dan Kontrak Digital"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Sitemap_dan_Alur_Kontak
+  - community/Ketersediaan_dan_Kontrak_Digital
 ---
 
 # Lima halaman umum situs rental: home, services, about, equipments, contact
@@ -14,4 +14,4 @@ tags:
 - [[Ref - Marketplace dan studi akademik]] - `conceptually_related_to` [EXTRACTED]
 - [[Struktur - Sitemap usulan]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Sitemap_dan_Alur_Kontak
+#graphify/concept #graphify/EXTRACTED #community/Ketersediaan_dan_Kontrak_Digital

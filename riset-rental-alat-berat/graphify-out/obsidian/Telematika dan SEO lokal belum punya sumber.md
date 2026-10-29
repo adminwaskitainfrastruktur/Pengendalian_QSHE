@@ -1,11 +1,11 @@
 ---
 source_file: "Gap dan keputusan terbuka.md"
 type: "rationale"
-community: "Area Layanan dan Dealer"
+community: "Harga Terbuka dan Keputusan"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Area_Layanan_dan_Dealer
+  - community/Harga_Terbuka_dan_Keputusan
 ---
 
 # Telematika dan SEO lokal belum punya sumber
@@ -14,4 +14,4 @@ tags:
 - [[Fitur - Area layanan dan SEO lokal]] - `references` [EXTRACTED]
 - [[Gap dan keputusan terbuka]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Area_Layanan_dan_Dealer
+#graphify/rationale #graphify/EXTRACTED #community/Harga_Terbuka_dan_Keputusan

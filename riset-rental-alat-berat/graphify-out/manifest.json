@@ -142,5 +142,41 @@
     "seen": 1793242513.8949175,
     "ast_hash": "4e512c3a1c40774447f883d77bbd03cf",
     "semantic_hash": "4e512c3a1c40774447f883d77bbd03cf"
+  },
+  "reports/Referensi website rental alat berat.md": {
+    "mtime": 1793242958.9811535,
+    "seen": 1793243494.1203077,
+    "ast_hash": "61402b4180c2a1233d7a9e728de3c25e",
+    "semantic_hash": "61402b4180c2a1233d7a9e728de3c25e"
+  },
+  "research_notes/Referensi website rental alat berat/fitur_dan_stack.md": {
+    "mtime": 1793242805.7611444,
+    "seen": 1793243494.12031,
+    "ast_hash": "421903ce476298aa8ca205aee54194c2",
+    "semantic_hash": "421903ce476298aa8ca205aee54194c2"
+  },
+  "research_notes/Referensi website rental alat berat/harga_dan_kontrak.md": {
+    "mtime": 1793242747.605141,
+    "seen": 1793243494.1203113,
+    "ast_hash": "e2ca2661f842ef012bc818bae806f2a1",
+    "semantic_hash": "e2ca2661f842ef012bc818bae806f2a1"
+  },
+  "research_notes/Referensi website rental alat berat/seo_kepercayaan_regulasi.md": {
+    "mtime": 1793242770.6091423,
+    "seen": 1793243494.1203127,
+    "ast_hash": "612985a1ed2f2f77175042d9e6d27722",
+    "semantic_hash": "612985a1ed2f2f77175042d9e6d27722"
+  },
+  "research_notes/Referensi website rental alat berat/situs_global.md": {
+    "mtime": 1793242738.3691404,
+    "seen": 1793243494.1203136,
+    "ast_hash": "fe1ec4e338f7c6daa16717c2c0b1ba8d",
+    "semantic_hash": "fe1ec4e338f7c6daa16717c2c0b1ba8d"
+  },
+  "research_notes/Referensi website rental alat berat/situs_indonesia.md": {
+    "mtime": 1793242741.9091406,
+    "seen": 1793243494.1203148,
+    "ast_hash": "ccd1bbd60f2ece971ae86589a92b317c",
+    "semantic_hash": "ccd1bbd60f2ece971ae86589a92b317c"
   }
 }

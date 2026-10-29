@@ -13,3 +13,4 @@ tags: [gap, keputusan]
 2. Harga terbuka atau "hubungi kami": [[Fitur - Harga bertingkat]]
 3. Fase 1 hanya situs informasi + RFQ + WhatsApp, atau langsung booking online: [[Fitur - Kalender ketersediaan]]
 4. Jenis alat, wilayah layanan, nama dan merek perusahaan: belum diketahui
+5. Penyimpanan data: arah awal SharePoint List, atau paling tidak Google Drive. Cara halaman publik membacanya belum diputuskan: [[Teknis - Stack dan lokasi proyek]]

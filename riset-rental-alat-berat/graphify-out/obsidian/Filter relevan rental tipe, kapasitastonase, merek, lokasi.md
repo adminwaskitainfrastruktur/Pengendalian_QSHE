@@ -1,11 +1,11 @@
 ---
 source_file: "Referensi/Ref - Mid Country Machinery.md"
 type: "rationale"
-community: "Katalog, Ketersediaan, Pasar"
+community: "Pola Fitur Inti Situs"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Katalog_Ketersediaan_Pasar
+  - community/Pola_Fitur_Inti_Situs
 ---
 
 # Filter relevan rental: tipe, kapasitas/tonase, merek, lokasi
@@ -14,4 +14,4 @@ tags:
 - [[Fitur - Katalog dan filter unit]] - `references` [EXTRACTED]
 - [[Ref - Mid Country Machinery]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Katalog_Ketersediaan_Pasar
+#graphify/rationale #graphify/EXTRACTED #community/Pola_Fitur_Inti_Situs

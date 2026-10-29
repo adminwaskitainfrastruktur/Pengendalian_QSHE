@@ -1,11 +1,11 @@
 ---
 source_file: "Referensi/Ref - Template Equipo.md"
 type: "rationale"
-community: "Template dan Pola Beranda"
+community: "Pola Fitur Inti Situs"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Template_dan_Pola_Beranda
+  - community/Pola_Fitur_Inti_Situs
 ---
 
 # Form permintaan penawaran tepat di bawah header
@@ -16,4 +16,4 @@ tags:
 - [[Ref - Template Equipo]] - `conceptually_related_to` [EXTRACTED]
 - [[Sumber 5 - Equipo (UICookies) dan Quipli]] - `cites` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Template_dan_Pola_Beranda
+#graphify/rationale #graphify/EXTRACTED #community/Pola_Fitur_Inti_Situs

@@ -1,11 +1,11 @@
 ---
 source_file: "Pasar/Pasar - Harga sewa excavator Jakarta.md"
 type: "rationale"
-community: "Harga dan Biaya Sewa"
+community: "Harga Terbuka dan Keputusan"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Harga_dan_Biaya_Sewa
+  - community/Harga_Terbuka_dan_Keputusan
 ---
 
 # Keputusan: angka cuplikan bukan harga di situs
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Pasar - Harga sewa excavator Jakarta]] - `rationale_for` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Harga_dan_Biaya_Sewa
+#graphify/rationale #graphify/EXTRACTED #community/Harga_Terbuka_dan_Keputusan

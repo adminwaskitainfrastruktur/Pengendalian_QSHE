@@ -1,11 +1,11 @@
 ---
 source_file: "Fitur/Fitur - Area layanan dan SEO lokal.md"
 type: "concept"
-community: "Area Layanan dan Dealer"
+community: "Harga Terbuka dan Keputusan"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Area_Layanan_dan_Dealer
+  - community/Harga_Terbuka_dan_Keputusan
 ---
 
 # Halaman layanan per kota/wilayah
@@ -15,4 +15,4 @@ tags:
 - [[Halaman Area layanan]] - `conceptually_related_to` [INFERRED]
 - [[Ref - Penyedia lokal Jakarta]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Area_Layanan_dan_Dealer
+#graphify/concept #graphify/EXTRACTED #community/Harga_Terbuka_dan_Keputusan

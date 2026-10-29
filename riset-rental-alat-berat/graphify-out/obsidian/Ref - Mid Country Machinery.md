@@ -1,11 +1,11 @@
 ---
 source_file: "Referensi/Ref - Mid Country Machinery.md"
 type: "document"
-community: "Katalog, Ketersediaan, Pasar"
+community: "Pola Fitur Inti Situs"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Katalog_Ketersediaan_Pasar
+  - community/Pola_Fitur_Inti_Situs
 ---
 
 # Ref - Mid Country Machinery
@@ -17,4 +17,4 @@ tags:
 - [[Mid Country Machinery (contoh ACS Web Design)]] - `conceptually_related_to` [EXTRACTED]
 - [[Sumber]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Katalog_Ketersediaan_Pasar
+#graphify/document #graphify/EXTRACTED #community/Pola_Fitur_Inti_Situs

@@ -1,11 +1,11 @@
 ---
 source_file: "Gap dan keputusan terbuka.md"
 type: "rationale"
-community: "Katalog, Ketersediaan, Pasar"
+community: "Ketersediaan dan Kontrak Digital"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Katalog_Ketersediaan_Pasar
+  - community/Ketersediaan_dan_Kontrak_Digital
 ---
 
 # Keputusan 3: fase 1 informasi+RFQ+WhatsApp atau langsung booking online
@@ -14,4 +14,4 @@ tags:
 - [[Fitur - Kalender ketersediaan]] - `references` [EXTRACTED]
 - [[Gap dan keputusan terbuka]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Katalog_Ketersediaan_Pasar
+#graphify/rationale #graphify/EXTRACTED #community/Ketersediaan_dan_Kontrak_Digital

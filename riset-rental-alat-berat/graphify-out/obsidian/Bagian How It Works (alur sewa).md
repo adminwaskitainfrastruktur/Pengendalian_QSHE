@@ -1,11 +1,11 @@
 ---
 source_file: "Referensi/Ref - Template Machima.md"
 type: "concept"
-community: "Template dan Pola Beranda"
+community: "Pola Fitur Inti Situs"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Template_dan_Pola_Beranda
+  - community/Pola_Fitur_Inti_Situs
 ---
 
 # Bagian How It Works (alur sewa)
@@ -14,4 +14,4 @@ tags:
 - [[Ref - Template Machima]] - `conceptually_related_to` [EXTRACTED]
 - [[Struktur - Sitemap usulan]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Template_dan_Pola_Beranda
+#graphify/concept #graphify/EXTRACTED #community/Pola_Fitur_Inti_Situs

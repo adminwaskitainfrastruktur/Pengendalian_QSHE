@@ -1,11 +1,11 @@
 ---
 source_file: "Sumber.md"
 type: "concept"
-community: "Template dan Pola Beranda"
+community: "Pola Fitur Inti Situs"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Template_dan_Pola_Beranda
+  - community/Pola_Fitur_Inti_Situs
 ---
 
 # Sumber #3 - WebFX: web design rental alat berat
@@ -14,4 +14,4 @@ tags:
 - [[Form kontak dan sistem inquiry]] - `cites` [EXTRACTED]
 - [[Sumber]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Template_dan_Pola_Beranda
+#graphify/concept #graphify/EXTRACTED #community/Pola_Fitur_Inti_Situs

@@ -1,11 +1,11 @@
 ---
 source_file: "Teknis/Teknis - Stack dan lokasi proyek.md"
 type: "rationale"
-community: "Keputusan Terbuka dan Stack"
+community: "Harga Terbuka dan Keputusan"
 tags:
   - graphify/rationale
   - graphify/EXTRACTED
-  - community/Keputusan_Terbuka_dan_Stack
+  - community/Harga_Terbuka_dan_Keputusan
 ---
 
 # Lokasi website rental belum diputuskan (repo ini, repo baru, atau stack lain)
@@ -14,4 +14,4 @@ tags:
 - [[Gap dan keputusan terbuka]] - `references` [EXTRACTED]
 - [[Teknis - Stack dan lokasi proyek]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/rationale #graphify/EXTRACTED #community/Keputusan_Terbuka_dan_Stack
+#graphify/rationale #graphify/EXTRACTED #community/Harga_Terbuka_dan_Keputusan

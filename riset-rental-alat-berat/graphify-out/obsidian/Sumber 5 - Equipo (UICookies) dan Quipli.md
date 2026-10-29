@@ -1,11 +1,11 @@
 ---
 source_file: "Sumber.md"
 type: "concept"
-community: "Template dan Pola Beranda"
+community: "Pola Fitur Inti Situs"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Template_dan_Pola_Beranda
+  - community/Pola_Fitur_Inti_Situs
 ---
 
 # Sumber #5 - Equipo (UICookies) dan Quipli
@@ -14,4 +14,4 @@ tags:
 - [[Form permintaan penawaran tepat di bawah header]] - `cites` [EXTRACTED]
 - [[Sumber]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Template_dan_Pola_Beranda
+#graphify/concept #graphify/EXTRACTED #community/Pola_Fitur_Inti_Situs
