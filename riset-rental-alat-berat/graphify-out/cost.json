@@ -1,0 +1,12 @@
+{
+  "runs": [
+    {
+      "files": 24,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "note": "semantic extraction done by host-agent subagents; token usage not recorded here"
+    }
+  ],
+  "total_input_tokens": 0,
+  "total_output_tokens": 0
+}
